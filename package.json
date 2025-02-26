@@ -1,7 +1,7 @@
 {
   "name": "@react-agents-plugins/twitter",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "twitter.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
