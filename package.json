@@ -15,5 +15,14 @@
     "url": "https://github.com/react-agents-registry/twitter/issues"
   },
   "homepage": "https://github.com/react-agents-registry/twitter#readme",
-  "description": ""
+  "description": "",
+  "pluginConfig": {
+    "type": "react-agents:1.0.0",
+    "parameters": {
+      "token": {
+        "type": "string",
+        "examples": ["YOUR_TWITTER_BOT_TOKEN"]
+      }
+    }
+  }
 }
